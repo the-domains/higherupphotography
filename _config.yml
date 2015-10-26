@@ -1,0 +1,23 @@
+name: HigherUpPhotography
+favicon: null
+layout_spectrum: 0.23203456914052367
+typography_spectrum: 0.6105076789390296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5403240316081792
+  lightness: 0.7772417943924665
+  saturation: 0.7815580312162638
+  rhythmicContrast: 0.778883934719488
+purpose: []
